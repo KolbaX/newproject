@@ -32,7 +32,7 @@
                             <h3 class="pt_sans">{{ __('index.modal_2') }}</h3>
                             <div class="cont-contact-select">
                                 <div class="cst-choose">
-                                    <div class="ind-choose"><span class="ssch">{{ __('index.modal_3') }} skype</span><img src="{{ asset('img/dw_b.svg') }}" alt=""></div>
+                                    <div class="ind-choose"><span class="ssch">{{ __('index.modal_3') }} Skype</span><img src="{{ asset('img/dw_b.svg') }}" alt=""></div>
                                     <input type="hidden" name="methodData" value="" class="ind-inp-choose">
                                     <div class="drop-en-choose">
                                         <div class="clk_ch">Skype</div>
@@ -42,7 +42,7 @@
                                 </div>
                             </div>
                             <div class="cont-contact-l">
-                                <p class="pt_sans">Skype login</p>
+                                <p class="pt_sans">Contact information</p>
                                 <input type="text" placeholder="" name="login">
                             </div>
                             <div class="ac-ins-box ac-adinfo cont-contact-l">

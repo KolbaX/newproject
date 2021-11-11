@@ -79,7 +79,7 @@ return [
     'add_to_cart' => 'Add to cart',
     'service_include' => 'Service include',
     'service_include_desc' => 'Fulfillment of all conditions to finish',
-    'deadline' => 'Deadline',
+    'deadline' => 'ETA',
     'requirements' => 'Requirements',
     'requirements_1' => 'Be alive',
     'requirements_2' => 'Have money',
